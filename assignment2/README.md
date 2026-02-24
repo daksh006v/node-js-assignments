@@ -121,7 +121,7 @@ PUT http://localhost:5000/products/3/price
 
 ## Postman Documentation:
 
-https://documenter.getpostman.com/view/YOUR_ID](https://documenter.getpostman.com/view/50840953/2sBXcGDepg)
+https://documenter.getpostman.com/view/50840953/2sBXcGDepg
 
 ## Deployed Link
 
