@@ -120,15 +120,12 @@ PUT http://localhost:5000/products/3/price
 ---
 
 ## Postman Documentation:
-(Add your Postman public link here)
 
-https://documenter.getpostman.com/view/YOUR_ID
+https://documenter.getpostman.com/view/YOUR_ID](https://documenter.getpostman.com/view/50840953/2sBXcGDepg)
 
 ## Deployed Link
 
-**https://your-app.onrender.com**
-
-(Replace with your actual Render deployment URL)
+(https://node-js-assignments.onrender.com)
 
 ---
 
