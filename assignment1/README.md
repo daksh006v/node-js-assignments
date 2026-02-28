@@ -55,7 +55,7 @@ GET http://localhost:3000/students/branch/CSE
 4. **Access the API**
    Open your browser or Postman and navigate to:
    ```
-   http://localhost:3000
+   https://node-js-assignment1.onrender.com
    ```
 
 ---
@@ -113,8 +113,7 @@ GET http://localhost:3000/students/branch/CSE
 https://documenter.getpostman.com/view/50840953/2sBXcGCynQ
 
 ## Deployed Link
-
- **[[https://your-app.onrender.com](https://your-app.onrender.com)](https://node-js-assignment1.onrender.com)**
+(https://node-js-assignment1.onrender.com)
 
 ---
 

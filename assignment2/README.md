@@ -24,13 +24,13 @@ Build a backend API to manage product data with proper RESTful routes (GET, POST
 
 ## Sample API URLs (Local)
 
-GET http://localhost:5000/products  
-GET http://localhost:5000/products/3  
-GET http://localhost:5000/products/category/Electronics  
-POST http://localhost:5000/products  
-PUT http://localhost:5000/products/1  
-PUT http://localhost:5000/products/2/stock  
-PUT http://localhost:5000/products/3/price  
+GET https://node-js-assignments.onrender.com/products  
+GET https://node-js-assignments.onrender.com/products/3  
+GET https://node-js-assignments.onrender.com/products/category/Electronics  
+POST https://node-js-assignments.onrender.com/products  
+PUT https://node-js-assignments.onrender.com/products/1  
+PUT https://node-js-assignments.onrender.com/products/2/stock  
+PUT https://node-js-assignments.onrender.com/products/3/price  
 
 ---
 
@@ -48,7 +48,7 @@ PUT http://localhost:5000/products/3/price
 
 4. **Access the API**
    Open your browser or Postman and navigate to:  
-   http://localhost:5000
+   https://node-js-assignments.onrender.com
 
 ---
 
